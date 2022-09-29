@@ -1,3 +1,5 @@
-Line 1: Learning Git is fun!
-Line 2: Adding another line of text.
+Line 1: Create repo on GitHub
+Line 2: Clone repo to local machine
+Line 3: Checkout a branch to make changes
+Line 4: Push branch up to GitHub
 
